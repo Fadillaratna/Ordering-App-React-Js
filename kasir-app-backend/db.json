@@ -1,0 +1,188 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nama": "Makanan"
+    },
+    {
+      "id": 2,
+      "nama": "Minuman"
+    },
+    {
+      "id": 3,
+      "nama": "Cemilan"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Spagethi Bolognaise",
+      "harga": 25000,
+      "is_ready": true,
+      "gambar": "bolognaise.jpeg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Spagethi Carbonara",
+      "harga": 29000,
+      "is_ready": true,
+      "gambar": "carbonara.jpeg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Kimchi Fried Rice",
+      "harga": 32000,
+      "is_ready": true,
+      "gambar": "kimchi.jpeg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Crispy Korean Soy Garlic Chicken Wings",
+      "harga": 37000,
+      "is_ready": true,
+      "gambar": "wings.jpeg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Jajangmyeon",
+      "harga": 23000,
+      "is_ready": true,
+      "gambar": "jajangmyeon.jpeg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Bibimbap",
+      "harga": 26000,
+      "is_ready": true,
+      "gambar": "bibimbap.jpeg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Beef Steak",
+      "harga": 55000,
+      "is_ready": true,
+      "gambar": "steak.jpeg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "Fluffy Pancake",
+      "harga": 45000,
+      "is_ready": true,
+      "gambar": "pancake.jpeg",
+      "category": {
+        "id": 3,
+        "nama": "Cemilan"
+      }
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "Potato Fries",
+      "harga": 21000,
+      "is_ready": true,
+      "gambar": "potato.jpeg",
+      "category": {
+        "id": 3,
+        "nama": "Cemilan"
+      }
+    },
+    {
+      "id": 10,
+      "kode": "K-010",
+      "nama": "Onion Rings",
+      "harga": 23000,
+      "is_ready": true,
+      "gambar": "onion.jpeg",
+      "category": {
+        "id": 3,
+        "nama": "Cemilan"
+      }
+    },
+    {
+      "id": 11,
+      "kode": "K-011",
+      "nama": "Coffe Late",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "late.jpeg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "K-012",
+      "nama": "Americano Coffe",
+      "harga": 7000,
+      "is_ready": true,
+      "gambar": "americano.jpeg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 13,
+      "kode": "K-013",
+      "nama": "Summer Drink",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "summer.jpeg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 14,
+      "kode": "K-014",
+      "nama": "Strawberry Matcha Latte",
+      "harga": 3000,
+      "is_ready": true,
+      "gambar": "matcha.jpeg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": []
+}
