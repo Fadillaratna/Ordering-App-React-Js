@@ -185,72 +185,21 @@
   ],
   "keranjangs": [
     {
-      "jumlah": 1,
-      "total_harga": 3000,
+      "jumlah": 3,
+      "total_harga": 87000,
       "product": {
-        "id": 11,
-        "kode": "K-011",
-        "nama": "Strawberry Matcha Latte",
-        "harga": 3000,
+        "id": 2,
+        "kode": "K-02",
+        "nama": "Spagethi Carbonara",
+        "harga": 29000,
         "is_ready": true,
-        "gambar": "matcha.jpeg",
+        "gambar": "carbonara.jpeg",
         "category": {
-          "id": 2,
-          "nama": "Minuman"
+          "id": 1,
+          "nama": "Makanan"
         }
       },
       "id": 1
-    },
-    {
-      "jumlah": 1,
-      "total_harga": 7000,
-      "product": {
-        "id": 12,
-        "kode": "K-012",
-        "nama": "Ice / Hot Americano Coffe",
-        "harga": 7000,
-        "is_ready": true,
-        "gambar": "americano.jpeg",
-        "category": {
-          "id": 2,
-          "nama": "Minuman"
-        }
-      },
-      "id": 2
-    },
-    {
-      "jumlah": 2,
-      "total_harga": 10000,
-      "product": {
-        "id": 13,
-        "kode": "K-013",
-        "nama": "Summer Minuman Special",
-        "harga": 5000,
-        "is_ready": true,
-        "gambar": "summer.jpeg",
-        "category": {
-          "id": 2,
-          "nama": "Minuman"
-        }
-      },
-      "id": 3
-    },
-    {
-      "jumlah": 3,
-      "total_harga": 45000,
-      "product": {
-        "id": 14,
-        "kode": "K-014",
-        "nama": "Coffe Late",
-        "harga": 15000,
-        "is_ready": true,
-        "gambar": "late.jpeg",
-        "category": {
-          "id": 2,
-          "nama": "Minuman"
-        }
-      },
-      "id": 4
     }
   ],
   "pesanans": [
@@ -278,6 +227,86 @@
       "total_bayar": 0,
       "menus": [],
       "id": 5
+    },
+    {
+      "total_bayar": 12000,
+      "menus": [
+        {
+          "jumlah": 3,
+          "total_harga": 9000,
+          "product": {
+            "id": 11,
+            "kode": "K-011",
+            "nama": "Strawberry Matcha Latte",
+            "harga": 3000,
+            "is_ready": true,
+            "gambar": "matcha.jpeg",
+            "category": {
+              "id": 2,
+              "nama": "Minuman"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 3000,
+          "product": {
+            "id": 11,
+            "kode": "K-011",
+            "nama": "Strawberry Matcha Latte",
+            "harga": 3000,
+            "is_ready": true,
+            "gambar": "matcha.jpeg",
+            "category": {
+              "id": 2,
+              "nama": "Minuman"
+            }
+          },
+          "id": 2
+        }
+      ],
+      "id": 6
+    },
+    {
+      "total_bayar": 50000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 25000,
+          "product": {
+            "id": 1,
+            "kode": "K-01",
+            "nama": "Spagethi Bolognaise",
+            "harga": 25000,
+            "is_ready": true,
+            "gambar": "bolognaise.jpeg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 25000,
+          "product": {
+            "id": 1,
+            "kode": "K-01",
+            "nama": "Spagethi Bolognaise",
+            "harga": 25000,
+            "is_ready": true,
+            "gambar": "bolognaise.jpeg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 4
+        }
+      ],
+      "id": 7
     }
   ]
 }
