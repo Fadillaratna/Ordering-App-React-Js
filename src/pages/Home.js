@@ -132,9 +132,9 @@ export default class Home extends Component {
                 changeCategory={this.changeCategory}
                 categoriYangDipilih={categoriYangDipilih}
               />
-              <Col >
+              <Col>
                 <h4>
-                  <strong>Products</strong>
+                  <strong>Avari Ovene's Products</strong>
                 </h4>
                 <hr />
                 <Row className="overflow-auto menu">

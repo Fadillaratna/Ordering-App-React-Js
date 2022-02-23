@@ -161,7 +161,7 @@
     {
       "id": 13,
       "kode": "K-013",
-      "nama": "Summer Drink Special",
+      "nama": "Summer Minuman Special",
       "harga": 5000,
       "is_ready": true,
       "gambar": "summer.jpeg",
@@ -186,23 +186,6 @@
   "keranjangs": [
     {
       "jumlah": 1,
-      "total_harga": 23000,
-      "product": {
-        "id": 10,
-        "kode": "K-010",
-        "nama": "Onion Rings",
-        "harga": 23000,
-        "is_ready": true,
-        "gambar": "onion.jpeg",
-        "category": {
-          "id": 3,
-          "nama": "Cemilan"
-        }
-      },
-      "id": 3
-    },
-    {
-      "jumlah": 1,
       "total_harga": 29000,
       "product": {
         "id": 2,
@@ -216,157 +199,35 @@
           "nama": "Makanan"
         }
       },
-      "id": 4
+      "keterangan": "Without chili",
+      "id": 1
     }
   ],
   "pesanans": [
     {
-      "total_bayar": 236000,
-      "menus": [
-        {
-          "jumlah": 1,
-          "total_harga": 25000,
-          "product": {
-            "id": 1,
-            "kode": "K-01",
-            "nama": "Spagethi Bolognaise",
-            "harga": 25000,
-            "is_ready": true,
-            "gambar": "bolognaise.jpeg",
-            "category": {
-              "id": 1,
-              "nama": "Makanan"
-            }
-          },
-          "id": 1
-        },
-        {
-          "jumlah": 1,
-          "total_harga": 29000,
-          "product": {
-            "id": 2,
-            "kode": "K-02",
-            "nama": "Spagethi Carbonara",
-            "harga": 29000,
-            "is_ready": true,
-            "gambar": "carbonara.jpeg",
-            "category": {
-              "id": 1,
-              "nama": "Makanan"
-            }
-          },
-          "id": 2
-        },
-        {
-          "jumlah": 2,
-          "total_harga": 64000,
-          "product": {
-            "id": 3,
-            "kode": "K-03",
-            "nama": "Kimchi Fried Rice",
-            "harga": 32000,
-            "is_ready": true,
-            "gambar": "kimchi.jpeg",
-            "category": {
-              "id": 1,
-              "nama": "Makanan"
-            }
-          },
-          "id": 3
-        },
-        {
-          "jumlah": 4,
-          "total_harga": 104000,
-          "product": {
-            "id": 6,
-            "kode": "K-06",
-            "nama": "Bibimbap",
-            "harga": 26000,
-            "is_ready": true,
-            "gambar": "bibimbap.jpeg",
-            "category": {
-              "id": 1,
-              "nama": "Makanan"
-            }
-          },
-          "id": 4
-        },
-        {
-          "jumlah": 2,
-          "total_harga": 14000,
-          "product": {
-            "id": 12,
-            "kode": "K-012",
-            "nama": "Americano Coffe",
-            "harga": 7000,
-            "is_ready": true,
-            "gambar": "americano.jpeg",
-            "category": {
-              "id": 2,
-              "nama": "Minuman"
-            }
-          },
-          "id": 5
-        }
-      ],
+      "total_bayar": 0,
+      "menus": [],
       "id": 1
     },
     {
-      "total_bayar": 134000,
-      "menus": [
-        {
-          "jumlah": 2,
-          "total_harga": 90000,
-          "product": {
-            "id": 8,
-            "kode": "K-08",
-            "nama": "Fluffy Pancake",
-            "harga": 45000,
-            "is_ready": true,
-            "gambar": "pancake.jpeg",
-            "category": {
-              "id": 3,
-              "nama": "Cemilan"
-            }
-          },
-          "id": 1
-        },
-        {
-          "jumlah": 1,
-          "total_harga": 21000,
-          "product": {
-            "id": 9,
-            "kode": "K-09",
-            "nama": "Potato Fries",
-            "harga": 21000,
-            "is_ready": true,
-            "gambar": "potato.jpeg",
-            "category": {
-              "id": 3,
-              "nama": "Cemilan"
-            }
-          },
-          "id": 2
-        },
-        {
-          "jumlah": 1,
-          "total_harga": 23000,
-          "product": {
-            "id": 10,
-            "kode": "K-010",
-            "nama": "Onion Rings",
-            "harga": 23000,
-            "is_ready": true,
-            "gambar": "onion.jpeg",
-            "category": {
-              "id": 3,
-              "nama": "Cemilan"
-            }
-          },
-          "id": 3
-        }
-      ],
+      "total_bayar": 0,
+      "menus": [],
       "id": 2
+    },
+    {
+      "total_bayar": 0,
+      "menus": [],
+      "id": 3
+    },
+    {
+      "total_bayar": 0,
+      "menus": [],
+      "id": 4
+    },
+    {
+      "total_bayar": 0,
+      "menus": [],
+      "id": 5
     }
   ]
 }

@@ -38,11 +38,11 @@ export default class TotalBayar extends Component {
             <Button
               variant="primary"
               block
-              className="mb-2 mt-4 mr-2"
+              className="mb-2 mt-4 mr-2 w-100"
               size="lg"
               onClick={() => this.submitTotalBayar(totalBayar)}
             >
-              <FontAwesomeIcon icon={faShoppingCart} /> <strong>BAYAR</strong>
+              <FontAwesomeIcon icon={faShoppingCart} /> <strong>PAY</strong>
             </Button>
           </Col>
         </Row>

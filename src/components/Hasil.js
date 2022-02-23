@@ -113,7 +113,7 @@ export default class Hasil extends Component {
     return (
       <Col md={3}>
         <h4>
-          <strong>My Cart</strong>
+          <strong>Your Cart</strong>
         </h4>
         <hr />
         {keranjangs.length !== 0 && (

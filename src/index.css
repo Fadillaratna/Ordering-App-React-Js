@@ -18,6 +18,14 @@ body {
   background-color: #583112;
 }
 
+.btn-primary:active {
+  background-color: #583112;
+}
+
+.btn-primary:hover {
+  background-color: #583112;
+}
+
 @media only screen and (max-height: 1000px) {
   .hasil {
     height: 650px;
