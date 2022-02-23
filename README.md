@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# React Js Axios Self Service Food Ordering Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Main Page
+![image](https://user-images.githubusercontent.com/87308406/155307463-115089e8-21c7-4a2c-b6b1-0cee14d313c6.png)
 
-## Available Scripts
+### Food Category
+![image](https://user-images.githubusercontent.com/87308406/155307263-e8784b1a-cd03-4fd1-b4b1-379db2dc37a5.png)
 
-In the project directory, you can run:
+### Drink Category
+![image](https://user-images.githubusercontent.com/87308406/155307352-7fc00daf-28a0-499a-80d5-00cad2a24db4.png)
 
-### `npm start`
+### Snack Category
+![image](https://user-images.githubusercontent.com/87308406/155307777-2ff6c70b-21ca-42d8-b21e-80606af1ed61.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Succes Add Product To Cart
+![image](https://user-images.githubusercontent.com/87308406/155307907-266c0627-9473-40f4-94f6-50dbfc2af90c.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Delele Product From Cart
+![image](https://user-images.githubusercontent.com/87308406/155308022-8eaa9989-1ac3-4843-afd0-7645a1d49d31.png)
 
-### `npm test`
+![image](https://user-images.githubusercontent.com/87308406/155308095-9c86f17c-dcc8-494c-bcdd-f5530ecb0e08.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Edit Cart
+![image](https://user-images.githubusercontent.com/87308406/155309262-c8ada40e-6784-41d4-9c44-323b277404c2.png)
 
-### `npm run build`
+![image](https://user-images.githubusercontent.com/87308406/155309490-0c52482c-de4f-4d8d-a55b-d18add7125e1.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Succes
+![image](https://user-images.githubusercontent.com/87308406/155309123-b7f35bd0-2990-4ccd-9320-e27d9ce165e7.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
