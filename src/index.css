@@ -5,11 +5,49 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.navbar{
-   background-color: #583112;
+.navbar {
+  background-color: #583112;
 }
+
+.category-aktif {
+  background-color: #583112;
+  color: white;
+}
+
+.btn-primary {
+  background-color: #583112;
+}
+
+@media only screen and (max-height: 1000px) {
+  .hasil {
+    height: 650px;
+  }
+  
+  .menu {
+    height: 800px;
+  }
+}
+
+.overflow-auto::-webkit-scrollbar{
+  display: none;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
 
+.image{
+  width: auto;
+  height: 250px;
+  margin: 5px;
+}
+
+#p{
+  transition: all 0.5s ease;
+}
+
+#p:hover{
+  transform: scale(1.1);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}

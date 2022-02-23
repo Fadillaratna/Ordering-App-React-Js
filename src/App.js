@@ -1,26 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
-import {Hasil, ListCategories, NavbarComponent} from './component';
-import { Row, Col, Container } from 'react-bootstrap';
+import React, { Component } from 'react'
+import {
+  BrowserRouter,
+  Switch,
+  Route,
+} from "react-router-dom";
+import { NavbarComponent } from './components'
+import { Home, Sukses } from './pages'
 
-function App() {
-  return (
-    <div className="App">
-      <NavbarComponent />
-      <div className="mt-3">
-        <Container fluid>
-          <Row>
-            <ListCategories />
-            <Col>
-              <h4 className="fw-bold fs-4">Products</h4>
-              <hr />
-            </Col>
-            <Hasil />
-          </Row>
-        </Container>
-      </div>
-    </div>
-  );
+export default class App extends Component {
+  render() {
+    return (
+      <BrowserRouter>
+          <NavbarComponent />
+          <main>
+            <Switch>
+              <Route  path="/" component={Home} exact/>
+              <Route  path="/sukses" component={Sukses} exact/>
+            </Switch>
+          </main>
+      </BrowserRouter>
+    )
+  }
 }
-
-export default App;
